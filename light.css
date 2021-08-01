@@ -1,0 +1,227 @@
+@media (prefers-color-scheme: light) {
+
+  .gradient,
+  .contactcont,
+  .skillset, .bg, .rhom{
+
+    background: linear-gradient(
+      130deg,
+      #ffcc01,
+      #CDDC39  ,
+      #35c759,
+      #04c7be,
+      #01ac9b,
+      #0096c7,
+      #3f51b5,
+      #AB47BC,
+      #ef476f,
+      #fb5607
+     
+    );
+
+    background-size: 1000% 1000%;
+    animation: grad 50s linear infinite;
+  }
+  
+  .circ,.rhom {
+    box-shadow: 0 0px 10px 1px rgb(199, 199, 204);
+    border: 1px solid white;
+  }
+
+  #dropmenu {
+    box-shadow: 0 0px 6px 1.3px grey;
+  }
+
+  
+#bit {
+  border: 1px solid white;
+}
+
+#links li {
+ box-shadow: 0 0px 6px 1px grey;
+  border: 1px solid white;
+}
+
+  #Projects,.projs, #Skills, .skill ,.skillset{
+    background: rgba( 255, 255, 255, 0.10 );
+box-shadow: 0 0px 22px 1.5px rgb(199, 199, 204);
+backdrop-filter: blur( 5.0px );
+-webkit-backdrop-filter: blur( 5.0px );
+border: 1px solid white;
+  }
+
+
+ 
+
+  
+  .fa-github,
+  .fa-envelope,
+  .fa-file-text,
+  .home { 
+    color: rgb(255, 255, 255);
+  }
+  
+  body {
+  background-color: #fbfbfd;
+  }
+  
+h6{
+    color: black;
+  }
+  .projs .fa-github, .file
+   {
+    color: black;
+  }
+
+
+ 
+
+  
+  #Proj a .fa-github {
+    color: white;
+  }
+  .contactcont {
+    border-top: 1px solid white;
+  }
+
+
+#Skills{
+      box-shadow: 0px 0px 22px 1.5px rgb(199, 199, 204);
+    }
+   
+    #boutmecont {
+      background-color: white;
+      border-bottom: 1px solid white;
+    }
+    .projs, .skill  {
+     
+      box-shadow: 0px 0px 20px 1.5px rgb(199, 199, 204);
+    }
+ 
+   
+}
+
+
+  .gradient.light,
+  .contactcont.light, .bg.light,.circ.light, .bg.git.light,
+  .rhom.light{
+    background: linear-gradient(
+      
+      130deg,
+      #eccb0c,
+      #f5b700,
+      #aacc00,
+      #35c759,
+      #04c7be,
+     #00c4c7,
+      #9370DB,
+      #ef476f,
+      #e76f51
+     
+     
+          );
+
+  
+
+    background-size: 1000% 1000%;
+    animation: grad 50s linear infinite;
+  }
+
+ 
+
+.circ.light, .rhom.light{
+
+    box-shadow: 0 0px 12px 1px rgb(199, 199, 204);
+    border: 1px solid white;
+  
+  }
+  .contactcont.light {
+    border-top: 1px solid white;
+  }
+
+  .fa-github.light { 
+    color: rgb(255, 255, 255);
+  }
+  
+
+
+
+ 
+
+  #Projects.light,  .projs.light, #Skills.light, .skill.light,.skillset.light {
+    background: rgba( 255, 255, 255, 0.10 );
+    box-shadow: 0 0px 22px 1.5px rgb(177, 177, 177);
+    backdrop-filter: blur( 5.0px );
+    -webkit-backdrop-filter: blur( 5.0px );
+    border: 1px solid rgb(255, 255, 255);
+    
+  }
+
+
+  .projs.light {
+    
+box-shadow: 0 0px 20px 1.3px rgb(199, 199, 204);
+  }
+
+  #Projects h6.light,
+  #Projects p.light,
+  #boutmecont h6.light,
+  #boutmecont p.light,
+  #boutmecont a.light,
+  .projs h6.light,
+  .projs p.light,
+  #Skills h6.light,
+  .skill h6.light,
+  .skillset h6.light{
+    color: black;
+  }
+  .projs .fa-github.light, .file.light
+   {
+    color: black;
+  }
+
+
+
+ 
+
+
+ #Skills.light {
+      box-shadow: 0px 0px 22px 1.3px rgb(199, 199, 204);
+    }
+  
+    #boutmecont.light {
+      background-color: white;
+      border-bottom: 1px solid white;
+    }
+ .skill.light  {
+      box-shadow: 0px 0px 20px 1.3px rgb(199, 199, 204);
+    }
+    
+    .skillset.light {
+      box-shadow: 0px 0px 21px 1.3px rgb(199, 199, 204);
+    }
+ 
+  #Proj a .fa-github.light {
+    color: white;
+  }
+
+
+  #dropmenu.light {
+   box-shadow: 0 0px 6px 1.3px grey;
+  }
+
+  
+#bit.light {
+  border: 1px solid white;
+
+}
+
+#links li.light {
+  background: rgba( 255, 255, 255, 0.1  );
+  box-shadow: 0 0px 6px 1px grey;
+  border: 1px solid white;
+}
+
+body.light {
+  background-color: #fbfbfd;
+  }

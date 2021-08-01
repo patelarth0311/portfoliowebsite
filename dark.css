@@ -1,0 +1,266 @@
+
+
+@media (prefers-color-scheme: dark) {
+  .gradient,
+  .contactcont, .circ,.bg,.bg.git,.rhom {
+    background: radial-gradient(
+      circle at 65%,
+      black,
+      #6334AE,
+      #ae2872,
+   
+      #8120b7,
+      #c3356d,
+      #BA1F5C,
+      #6334AE,
+      #a72086,
+      #ca3d29,
+      #c72e5a,
+    
+      #e85223
+    );
+  
+    animation: grad 55s  ease-in-out infinite;
+      background-size: 1150% 1100%;
+  
+      
+  }
+
+  
+  
+ 
+  
+  .contactcont {
+    border-top: 1px solid rgba(28, 28, 30, 1);
+  }
+  #Projects,.projs, #Skills, .skill, .skillset {
+    background:  #1c1c1e3f;
+    box-shadow: 0 0px 22px 1.3px rgba(28, 28, 30, 1);
+    backdrop-filter: blur( 5.0px );
+    -webkit-backdrop-filter: blur( 5.0px );
+    border: 1px solid rgba(28, 28, 30, 1);
+  }
+  
+  .circ,.rhom {
+
+    box-shadow: 0 0px 20px 1.5px rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
+   
+    
+    
+  }
+  
+  .projs {
+  box-shadow: 0 0px 20px 1.3px #1c1c1e;
+  }
+  
+  body{
+      background-color: #000002;
+    }
+   
+  
+  #boutmecont{
+    background-color: #121212;
+    border-bottom: 1px solid rgba(28, 28, 30, 1);
+  }
+   #Skills {
+    box-shadow: 0 0px 22px 1.3px rgba(28, 28, 30, 1);
+    }
+    #Proj, .file, .projs .fa-github  {
+      color: white;
+    }
+    #Proj a .fa-github {
+      color: #000002;
+     
+    
+    }
+
+  
+
+
+
+   
+  
+    
+  
+    #Projects h6,
+  #Projects p,
+  #boutmecont h6,
+  #boutmecont  p,
+  #boutmecont  a,
+  #Skills h6,
+  .projs h6,
+  .projs p,
+  .skillset h6,
+  .skill h6 {
+    color: white;
+  }
+  
+   .skill {
+    box-shadow: 0px 0px 20px 1.3px rgba(28, 28, 30, 1);
+  }
+  
+  .skillset {
+    box-shadow: 0px 0px 21px 1.3px rgba(28, 28, 30, 1);
+  }
+  
+  
+  
+  
+  .contactcont  {
+    border-top: 1px solid rgba(28, 28, 30, 1);
+  }
+  
+  
+  #dropmenu {
+    box-shadow: 0 0px 6px 1.3px rgba(28, 28, 30, 1);
+  }
+  
+  
+  #bit {
+    border: 1px solid rgba(28, 28, 30, 1);
+  
+  }
+  
+  #links li {
+     background:  rgba(28, 28, 30, .16);
+    box-shadow: 0 0px 6px 1px rgba(28, 28, 30, 1);
+    border: 1px solid rgba(28, 28, 30, 1);
+  }
+  
+  
+}
+
+.gradient.dark,
+.contactcont.dark, .circ.dark,.bg.dark,.bg.git.dark, .rhom.dark {
+  background: radial-gradient(
+    circle at 65%,
+    black,
+    #6334AE,
+    #ae2872,
+ 
+    #8120b7,
+    #c3356d,
+    #BA1F5C,
+    #6334AE,
+    #a72086,
+    #ca3d29,
+    #c72e5a,
+  
+    #e85223
+  );
+
+  animation: grad 55s ease-in-out infinite;
+    background-size: 1150% 1100%;
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.contactcont.dark {
+  border-top: 1px solid #1c1c1e;
+}
+#Projects.dark,.projs.dark, #Skills.dark, .skill.dark, .skillset.dark {
+  background:  #1c1c1e3f;
+  box-shadow: 0 0px 22px 1.5px rgba(28, 28, 30, 1);
+  backdrop-filter: blur( 5.0px );
+  -webkit-backdrop-filter: blur( 5.0px );
+  border: 1px solid  rgba(28, 28, 30, 1);
+}
+
+.circ.dark,.rhom.dark {
+ 
+
+    box-shadow: 0 0px 20px 1.5px rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
+  
+  
+}
+
+.projs.dark {
+box-shadow: 0 0px 20px 1.5px rgba(28, 28, 30, 1);
+}
+
+body.dark{
+    background-color: #000000;
+  }
+ 
+
+#boutmecont.dark{
+  background-color: #121212;
+  border-bottom: 1px solid rgba(28, 28, 30, 1);
+}
+ #Skills.dark {
+  box-shadow: 0 0px 22px 1.5px rgba(28, 28, 30, 1);
+  }
+  #Proj.dark, .file.dark, .projs .fa-github.dark  {
+    color: white;
+  }
+  #Proj a .fa-github.dark {
+    color: #000002;
+   
+  
+  }
+
+    
+  
+
+  
+
+  
+
+  #Projects h6.dark,
+#Projects p.dark,
+#boutmecont h6.dark,
+#boutmecont  p.dark,
+#boutmecont  a.dark,
+#Skills h6.dark,
+.projs h6.dark,
+.projs p.dark,
+.skillset h6.dark,
+.skill h6.dark{
+  color: white;
+}
+
+ .skill.dark{
+  box-shadow: 0px 0px 20px 1.5px rgba(28, 28, 30, 1);
+}
+
+.skillset.dark {
+  box-shadow: 0px 0px 21px 1.5px rgba(28, 28, 30, 1);
+}
+
+
+
+
+.contactcont.dark {
+  border-top: 1px solid rgba(28, 28, 30, 1);
+}
+
+
+#dropmenu.dark {
+  box-shadow: 0 0px 6px 1.3px rgba(28, 28, 30, 1);
+  
+}
+
+
+#bit.dark {
+  border: 1px solid rgba(28, 28, 30, 1);
+
+}
+
+#links li.dark {
+   background:  rgba(28, 28, 30, .16);
+  box-shadow: 0 0px 6px 1px rgba(28, 28, 30, 1);
+  border: 1px solid rgba(28, 28, 30, 1);
+}
+
