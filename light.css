@@ -23,9 +23,9 @@
     animation: grad 50s linear infinite;
   }
   
-  .circ,.rhom {
+  .rhom {
     box-shadow: 0 0px 10px 1px rgb(199, 199, 204);
-    border: 1px solid white;
+   
   }
 
   #dropmenu {
@@ -129,10 +129,10 @@ h6{
 
  
 
-.circ.light, .rhom.light{
+ .rhom.light{
 
     box-shadow: 0 0px 12px 1px rgb(199, 199, 204);
-    border: 1px solid white;
+
   
   }
   .contactcont.light {
